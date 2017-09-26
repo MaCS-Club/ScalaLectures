@@ -91,4 +91,5 @@ def findFirst[A] (as:Array[A], p:A=>Boolean):Int={
 ```
 
 Метод `length` возвращает длину массива, запись `as(n)` возвращает его элемент под номером `n`
+
 [Назад](https://macs-club.github.io/ScalaLectures/index)
