@@ -1,4 +1,5 @@
-## Памятка 1: Обявления 
+[Назад](https://macs-club.github.io/ScalaLectures/index)
+## Памятка 1: Обьявления 
 - `var number :Int = 5` -- переменная
 
 - `val number :Int = 5` -- неизменяемое значение
@@ -90,3 +91,4 @@ def findFirst[A] (as:Array[A], p:A=>Boolean):Int={
 ```
 
 Метод `length` возвращает длину массива, запись `as(n)` возвращает его элемент под номером `n`
+[Назад](https://macs-club.github.io/ScalaLectures/index)
