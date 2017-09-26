@@ -1,3 +1,5 @@
+[Назад](https://macs-club.github.io/ScalaLectures/index)
+
 Проверка на упорядоченность массива
 
 `def isOrdered[A](as:Array[A], ordering: (A,A)=>Boolean) :Boolean`
@@ -13,3 +15,5 @@
 Композиция
 
 `def compose[A,B,C](f: B=>C, g:A => B) A=>C`
+
+[Назад](https://macs-club.github.io/ScalaLectures/index)
