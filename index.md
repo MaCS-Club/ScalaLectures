@@ -9,3 +9,7 @@
 * [Отклонения от типа](https://macs-club.github.io/ScalaLectures/variance)
 
 * [Вторая тема: задачи](https://macs-club.github.io/ScalaLectures/algebraic_dt_lists_exc)
+
+* [Лабораторные и тесты: общая информация](https://macs-club.github.io/ScalaLectures/labs)
+
+* [Лабораторная 1: Списочное включение](https://macs-club.github.io/ScalaLectures/for_comprehension)
