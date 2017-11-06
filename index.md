@@ -12,4 +12,4 @@
 
 * [Лабораторные и тесты: общая информация](https://macs-club.github.io/ScalaLectures/labs)
 
-* [Лабораторная 1: Спиковое включение](https://macs-club.github.io/ScalaLectures/for_comprehension)
+* [Лабораторная 1: Списковое включение](https://macs-club.github.io/ScalaLectures/for_comprehension)
