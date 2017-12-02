@@ -15,3 +15,5 @@
 * [Лабораторная 1: Списковое включение](https://macs-club.github.io/ScalaLectures/for_comprehension)
 
 * [Лабораторная 2: Обработка ошибок](https://macs-club.github.io/ScalaLectures/errorhanding)
+
+* [Лабораторная 3: Отложенные вычисления](https://macs-club.github.io/ScalaLectures/stream)
