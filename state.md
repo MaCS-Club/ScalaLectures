@@ -143,4 +143,5 @@ def simulateMachine(inputs: List[Input]): State[Machine, (Int, Int)]
 ```
 
 который принимает список входов и возвращает состояние новой машины и результат -- число конфет и монет в машине.
+
 [Назад](https://macs-club.github.io/ScalaLectures/index)
